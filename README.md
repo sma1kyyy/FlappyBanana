@@ -1,9 +1,9 @@
 # FlappyBanana
 
 ![Static Badge](https://img.shields.io/badge/Python-3.12-red)
-![Static Badge](https://img.shields.io/badge/Click-orange)
+![Static Badge](https://img.shields.io/badge/Click-yellow)
 ![Static Badge](https://img.shields.io/badge/Pygame-blue)
-![Static Badge](https://img.shields.io/badge/Flask-blue)
+![Static Badge](https://img.shields.io/badge/Flask-pinck)
 ![Static Badge](https://img.shields.io/badge/Blinker-red)
 
 ## Описание к данной работе
