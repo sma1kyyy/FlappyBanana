@@ -1,10 +1,10 @@
 # FlappyBanana
 
-![Static Badge](https://img.shields.io/badge/Python-3.12-red)
-![Static Badge](https://img.shields.io/badge/Click-yellow)
-![Static Badge](https://img.shields.io/badge/Pygame-blue)
-![Static Badge](https://img.shields.io/badge/Flask-pinck)
-![Static Badge](https://img.shields.io/badge/Blinker-red)
+![Static Badge](https://img.shields.io/badge/Python-3.12-white)
+![Static Badge](https://img.shields.io/badge/Click-pink)
+![Static Badge](https://img.shields.io/badge/Pygame-pink)
+![Static Badge](https://img.shields.io/badge/Flask-pink)
+![Static Badge](https://img.shields.io/badge/Blinker-pink)
 
 ## Описание к данной работе
 
